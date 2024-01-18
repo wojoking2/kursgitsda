@@ -1,1 +1,3 @@
 Zmiana w pliku ktora napisze poprzednia part two.
+
+Dodanie nowej funkcjonalnosci pod testowanie historii zmian.
